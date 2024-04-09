@@ -1,2 +1,1 @@
-# Asterisc_Technocrat_Internship_Portfolio_Website
 Portfolio Website
